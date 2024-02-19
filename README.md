@@ -47,6 +47,7 @@ If everything is set up _correctly_, you should see your new app running in your
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 ### Use This sample data for testing
+```bash
 [
     {
       "id": "95a2aaca-bab8-4504-8646-f75b325ec0e7",
@@ -70,7 +71,7 @@ This is one way to run your app — you can also run it directly from within And
       "endTime": 1523610000000
     }
   ]
-  
+  ```
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
